@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/HexSecGuru/HexSecGuru/blob/main/standard.gif" alt="banner" width="100%">
+  <img src="https://raw.githubusercontent.com/HexSecGuru/HexSecGuru/main/standard.gif" alt="banner" width="100%">
 </p>
 
 <!-- Typing SVG -->
@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 ```yaml
-alias: 0xShadow
+alias: 0xShadow (HexSecGuru)
 role: Security Researcher
 focus: Cybersecurity | Ethical Hacking | Network Defense
 age: 16
@@ -21,5 +21,6 @@ interests:
   - Penetration Testing
   - Python Security Tools
 goal: "To build secure systems — and understand how they break."
+motto: "Hack the system. Secure the future."
 
 
